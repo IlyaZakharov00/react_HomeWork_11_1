@@ -1,0 +1,15 @@
+.factStarWars-container {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    margin-bottom: 50px;
+}
+
+.facts-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.item-fact {
+    text-align: start;
+}
